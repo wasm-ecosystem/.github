@@ -9,4 +9,5 @@ This org maintains some interesting infra about the wasm ecosystem.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wasm-ecosystem/warpo,wasm-ecosystem/wasm-compiler&type=date&logscale&legend=top-left)](https://www.star-history.com/#wasm-ecosystem/warpo&wasm-ecosystem/wasm-compiler&type=date&logscale&legend=top-left)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#wasm-ecosystem/warpo&wasm-ecosystem/wasm-compiler&type=date&logscale&legend=top-left" frameBorder="0">
+</iframe>
